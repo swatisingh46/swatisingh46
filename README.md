@@ -3,7 +3,7 @@
 
 -<h1 align="center">Hi 👋, I'm Swati Kumari Singh</h1>
 <h3 align="center">A passionate frontend/backend developer from India</h3>
-<img align="right" width=400 alt="coding" src="https://www.google.com/search?q=web+development+images&tbm=isch&hl=en&chips=q:web+development,g_1:creative:HdMKwjeXRKA%3D,g_1:software:hkQs9Y8Zssc%3D&sa=X&ved=2ahUKEwij_I2Ki-mAAxVYmmMGHfNrCm0Q4lYoBHoECAEQPw&biw=1349&bih=651#imgrc=u-UnvTUEfp3WwM">
+<img align="right" width=400 alt="coding" src="https://dribbble.com/shots/5574718-Web-development-animation">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatisingh46&label=Profile%20views&color=0e75b6&style=flat" alt="swatisingh46" /> </p>
 
